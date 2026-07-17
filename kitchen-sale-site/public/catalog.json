@@ -1,0 +1,1337 @@
+[
+  {
+    "id": "f114242628",
+    "nome": "Pot 1",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114242628.webp",
+    "altre": [
+      "IMG_20260717_114246598.webp",
+      "IMG_20260717_114321111.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114402512",
+    "nome": "Pot 2",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114402512.webp",
+    "altre": [
+      "IMG_20260717_114409861.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114434616",
+    "nome": "Pot 3",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114434616.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114455311",
+    "nome": "Colander 1",
+    "categoria": "Colanders",
+    "foto": "IMG_20260717_114455311.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114503315",
+    "nome": "Colander 2",
+    "categoria": "Colanders",
+    "foto": "IMG_20260717_114503315.webp",
+    "altre": [
+      "IMG_20260717_114508629.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114530292",
+    "nome": "Pot 4",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114530292.webp",
+    "altre": [
+      "IMG_20260717_114541192.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114653453",
+    "nome": "Vase 1",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_114653453.webp",
+    "altre": [
+      "IMG_20260717_114701199.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114711232",
+    "nome": "Pot 5",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114711232.webp",
+    "altre": [
+      "IMG_20260717_114714284.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114724909",
+    "nome": "Baking tin 1",
+    "categoria": "Baking tins",
+    "foto": "IMG_20260717_114724909.webp",
+    "altre": [
+      "IMG_20260717_114743285.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114752933",
+    "nome": "Baking tin 2",
+    "categoria": "Baking tins",
+    "foto": "IMG_20260717_114752933.webp",
+    "altre": [
+      "IMG_20260717_114757001.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114809164",
+    "nome": "Pan 1",
+    "categoria": "Pans",
+    "foto": "IMG_20260717_114809164.webp",
+    "altre": [
+      "IMG_20260717_114821441.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114849439",
+    "nome": "Pot 6",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114849439.webp",
+    "altre": [
+      "IMG_20260717_114853850.webp",
+      "IMG_20260717_114858283.webp",
+      "IMG_20260717_114905953.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114918897",
+    "nome": "Pot 7",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114918897.webp",
+    "altre": [
+      "IMG_20260717_114922476.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114938875",
+    "nome": "Pot 8",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114938875.webp",
+    "altre": [
+      "IMG_20260717_114942439.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f114952609",
+    "nome": "Pot 9",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_114952609.webp",
+    "altre": [
+      "IMG_20260717_114954911.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115005127",
+    "nome": "Pot 10",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_115005127.webp",
+    "altre": [
+      "IMG_20260717_115007972.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115112538",
+    "nome": "Lid 1",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_115112538.webp",
+    "altre": [
+      "IMG_20260717_115114829.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115125479",
+    "nome": "Small pot 1",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_115125479.webp",
+    "altre": [
+      "IMG_20260717_115129111.webp",
+      "IMG_20260717_115137746.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115152250",
+    "nome": "Pot 11",
+    "categoria": "Pots",
+    "foto": "IMG_20260717_115152250.webp",
+    "altre": [
+      "IMG_20260717_115158253.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115243515",
+    "nome": "Kettle 1",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_115243515.webp",
+    "altre": [
+      "IMG_20260717_115250357.webp",
+      "IMG_20260717_115312223.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115333995",
+    "nome": "Kettle 2",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_115333995.webp",
+    "altre": [
+      "IMG_20260717_115344391.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115404583",
+    "nome": "Kettle 3",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_115404583.webp",
+    "altre": [
+      "IMG_20260717_115422050.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115444763",
+    "nome": "Pan 2",
+    "categoria": "Pans",
+    "foto": "IMG_20260717_115444763.webp",
+    "altre": [
+      "IMG_20260717_115447793.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115612662",
+    "nome": "Rice cooker 1",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_115612662.webp",
+    "altre": [
+      "IMG_20260717_115624693.webp",
+      "IMG_20260717_115627177.webp",
+      "IMG_20260717_115628822.webp",
+      "IMG_20260717_115633299.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115723545",
+    "nome": "Mug 1",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_115723545.webp",
+    "altre": [
+      "IMG_20260717_115726356.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115737501",
+    "nome": "Mug 2",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_115737501.webp",
+    "altre": [
+      "IMG_20260717_115800289.webp",
+      "IMG_20260717_115800457.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115839629",
+    "nome": "Glass 1",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_115839629.webp",
+    "altre": [
+      "IMG_20260717_115849353.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115900806",
+    "nome": "Glass 2",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_115900806.webp",
+    "altre": [
+      "IMG_20260717_115903396.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115923418",
+    "nome": "Mugs 1",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_115923418.webp",
+    "altre": [
+      "IMG_20260717_115925746.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f115943903",
+    "nome": "Glasses 1",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_115943903.webp",
+    "altre": [
+      "IMG_20260717_115951213.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120035115",
+    "nome": "Espresso cups 1",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_120035115.webp",
+    "altre": [
+      "IMG_20260717_120038312.webp",
+      "IMG_20260717_120102846.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120305654",
+    "nome": "Corkscrews 1",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_120305654.webp",
+    "altre": [
+      "IMG_20260717_120318234.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120408696",
+    "nome": "Item 1",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120408696.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120443958",
+    "nome": "Item 2",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120443958.webp",
+    "altre": [
+      "IMG_20260717_120449563.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120500356",
+    "nome": "Item 3",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120500356.webp",
+    "altre": [
+      "IMG_20260717_120513527.webp",
+      "IMG_20260717_120532438.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120601247",
+    "nome": "Item 4",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120601247.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120613586",
+    "nome": "Item 5",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120613586.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120624213",
+    "nome": "Item 6",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120624213.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120636030",
+    "nome": "Item 7",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120636030.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120644414",
+    "nome": "Item 8",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120644414.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120754526",
+    "nome": "Item 9",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120754526.webp",
+    "altre": [
+      "IMG_20260717_120800270.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120816661",
+    "nome": "Item 10",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_120816661.webp",
+    "altre": [
+      "IMG_20260717_120820115.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120908128",
+    "nome": "Plate 1",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_120908128.webp",
+    "altre": [
+      "IMG_20260717_120918719.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120931884",
+    "nome": "Plate 2",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_120931884.webp",
+    "altre": [
+      "IMG_20260717_120942920.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f120956157",
+    "nome": "Plate 3",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_120956157.webp",
+    "altre": [
+      "IMG_20260717_121000536.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121015872",
+    "nome": "Plate 4",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_121015872.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121022733",
+    "nome": "Plate 5",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_121022733.webp",
+    "altre": [
+      "IMG_20260717_121028501.webp",
+      "IMG_20260717_121028678.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121058286",
+    "nome": "Plate 6",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_121058286.webp",
+    "altre": [
+      "IMG_20260717_121105559.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121119285",
+    "nome": "Plate 7",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_121119285.webp",
+    "altre": [
+      "IMG_20260717_121123074.webp",
+      "IMG_20260717_121128891.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121135659",
+    "nome": "Plate 8",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_121135659.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121145343",
+    "nome": "Plate 9",
+    "categoria": "Plates",
+    "foto": "IMG_20260717_121145343.webp",
+    "altre": [
+      "IMG_20260717_121148192.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121201631",
+    "nome": "Bowl 1",
+    "categoria": "Bowls",
+    "foto": "IMG_20260717_121201631.webp",
+    "altre": [
+      "IMG_20260717_121203418.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121222960",
+    "nome": "Bowl 2",
+    "categoria": "Bowls",
+    "foto": "IMG_20260717_121222960.webp",
+    "altre": [
+      "IMG_20260717_121231248.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121243401",
+    "nome": "Mug 3",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_121243401.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121256513",
+    "nome": "Bowl 3",
+    "categoria": "Bowls",
+    "foto": "IMG_20260717_121256513.webp",
+    "altre": [
+      "IMG_20260717_121259598.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121318728",
+    "nome": "Bowl 4",
+    "categoria": "Bowls",
+    "foto": "IMG_20260717_121318728.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121555085",
+    "nome": "Bowl 5",
+    "categoria": "Bowls",
+    "foto": "IMG_20260717_121555085.webp",
+    "altre": [
+      "IMG_20260717_121558274.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121633322",
+    "nome": "Cutlery 1",
+    "categoria": "Cutlery",
+    "foto": "IMG_20260717_121633322.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121648283",
+    "nome": "Cutlery 2",
+    "categoria": "Cutlery",
+    "foto": "IMG_20260717_121648283.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121658516",
+    "nome": "Cutlery 3",
+    "categoria": "Cutlery",
+    "foto": "IMG_20260717_121658516.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121704402",
+    "nome": "Cutlery 4",
+    "categoria": "Cutlery",
+    "foto": "IMG_20260717_121704402.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121711058",
+    "nome": "Cutlery 5",
+    "categoria": "Cutlery",
+    "foto": "IMG_20260717_121711058.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121717224",
+    "nome": "Cutlery 6",
+    "categoria": "Cutlery",
+    "foto": "IMG_20260717_121717224.webp",
+    "altre": [
+      "IMG_20260717_121722734.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121838330",
+    "nome": "Cutlery 7",
+    "categoria": "Cutlery",
+    "foto": "IMG_20260717_121838330.webp",
+    "altre": [
+      "IMG_20260717_121848079.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f121921012",
+    "nome": "Utensil 1",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_121921012.webp",
+    "altre": [
+      "IMG_20260717_121923358.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122043154",
+    "nome": "Utensil 2",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122043154.webp",
+    "altre": [
+      "IMG_20260717_122047057.webp",
+      "IMG_20260717_122052289.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122112018",
+    "nome": "Utensil 3",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122112018.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122124891",
+    "nome": "Utensil 4",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122124891.webp",
+    "altre": [
+      "IMG_20260717_122128240.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122138038",
+    "nome": "Utensil 5",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122138038.webp",
+    "altre": [
+      "IMG_20260717_122143128.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122155408",
+    "nome": "Utensil 6",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122155408.webp",
+    "altre": [
+      "IMG_20260717_122157610.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122207049",
+    "nome": "Utensil 7",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122207049.webp",
+    "altre": [
+      "IMG_20260717_122215532.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122235399",
+    "nome": "Utensil 8",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122235399.webp",
+    "altre": [
+      "IMG_20260717_122244619.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122305910",
+    "nome": "Utensil 9",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122305910.webp",
+    "altre": [
+      "IMG_20260717_122312956.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122323012",
+    "nome": "Utensil 10",
+    "categoria": "Utensils & boards",
+    "foto": "IMG_20260717_122323012.webp",
+    "altre": [
+      "IMG_20260717_122327001.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122359395",
+    "nome": "Glass 3",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122359395.webp",
+    "altre": [
+      "IMG_20260717_122409062.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122425469",
+    "nome": "Glass 4",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122425469.webp",
+    "altre": [
+      "IMG_20260717_122428473.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122446721",
+    "nome": "Scale 1",
+    "categoria": "Appliances & misc",
+    "foto": "IMG_20260717_122446721.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122454514",
+    "nome": "Bowl 6",
+    "categoria": "Bowls",
+    "foto": "IMG_20260717_122454514.webp",
+    "altre": [
+      "IMG_20260717_122456901.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122514390",
+    "nome": "Glass 5",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122514390.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122525483",
+    "nome": "Glass 6",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122525483.webp",
+    "altre": [
+      "IMG_20260717_122531812.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122539674",
+    "nome": "Glass 7",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122539674.webp",
+    "altre": [
+      "IMG_20260717_122546326.webp"
+    ],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122616853",
+    "nome": "Glass 8",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122616853.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122632791",
+    "nome": "Glass 9",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122632791.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122903942",
+    "nome": "Glass 10",
+    "categoria": "Glasses & mugs",
+    "foto": "IMG_20260717_122903942.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f122946595",
+    "nome": "Vase 2",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_122946595.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123017293",
+    "nome": "Vase 3",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123017293.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123023870",
+    "nome": "Vase 4",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123023870.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123105070",
+    "nome": "Vase 5",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123105070.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123129146",
+    "nome": "Vase 6",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123129146.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123142505",
+    "nome": "Vase 7",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123142505.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123222747",
+    "nome": "Vase 8",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123222747.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123242837",
+    "nome": "Vase 9",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123242837.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123306482",
+    "nome": "Vase 10",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123306482.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123318060",
+    "nome": "Vase 11",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123318060.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123332653",
+    "nome": "Vase 12",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123332653.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123358054",
+    "nome": "Vase 13",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123358054.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123410184",
+    "nome": "Vase 14",
+    "categoria": "Vases",
+    "foto": "IMG_20260717_123410184.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123427358",
+    "nome": "Dish rack 1",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123427358.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123439940",
+    "nome": "Dish rack 2",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123439940.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123453242",
+    "nome": "Dish rack 3",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123453242.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123510851",
+    "nome": "Dish rack 4",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123510851.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123518366",
+    "nome": "Dish rack 5",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123518366.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123523959",
+    "nome": "Dish rack 6",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123523959.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123530151",
+    "nome": "Dish rack 7",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123530151.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123549275",
+    "nome": "Dish rack 8",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123549275.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123600732",
+    "nome": "Dish rack 9",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123600732.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123607875",
+    "nome": "Dish rack 10",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123607875.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f123614165",
+    "nome": "Dish rack 11",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_123614165.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  },
+  {
+    "id": "f124849140",
+    "nome": "Dish rack 12",
+    "categoria": "Dish racks & cloths",
+    "foto": "IMG_20260717_124849140.webp",
+    "altre": [],
+    "prezzo": "",
+    "stato": "Available",
+    "note": "",
+    "nascosto": false
+  }
+]
