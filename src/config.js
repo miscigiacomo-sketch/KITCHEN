@@ -1,5 +1,5 @@
 export const SITE = {
-  title: "The Professor's Kitchen Sale",
+  title: "The Kitchen Sale",
   eyebrow: "Private kitchen clear-out",
   intro:
     "We are Erasmus students selling kitchen items that we cannot take home. Everything is used but still in good condition unless stated otherwise.",
