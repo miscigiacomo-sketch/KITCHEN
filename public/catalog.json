@@ -15,7 +15,7 @@
   },
   {
     "id": "f114402512",
-    "nome": "Pot 2",
+    "nome": "Pot with lid 2",
     "categoria": "Pots",
     "foto": "IMG_20260717_114402512.webp",
     "altre": [
@@ -28,8 +28,8 @@
   },
   {
     "id": "f114434616",
-    "nome": "Pot 3",
-    "categoria": "Pots",
+    "nome": "Colander 1",
+    "categoria": "Colanders",
     "foto": "IMG_20260717_114434616.webp",
     "altre": [],
     "prezzo": "",
@@ -39,7 +39,7 @@
   },
   {
     "id": "f114455311",
-    "nome": "Colander 1",
+    "nome": "Colander 2",
     "categoria": "Colanders",
     "foto": "IMG_20260717_114455311.webp",
     "altre": [],
@@ -50,7 +50,7 @@
   },
   {
     "id": "f114503315",
-    "nome": "Colander 2",
+    "nome": "Colander 3",
     "categoria": "Colanders",
     "foto": "IMG_20260717_114503315.webp",
     "altre": [
@@ -63,7 +63,7 @@
   },
   {
     "id": "f114530292",
-    "nome": "Pot 4",
+    "nome": "Pot with lid 3",
     "categoria": "Pots",
     "foto": "IMG_20260717_114530292.webp",
     "altre": [
@@ -76,8 +76,8 @@
   },
   {
     "id": "f114653453",
-    "nome": "Vase 1",
-    "categoria": "Vases",
+    "nome": "Pot with lid 4",
+    "categoria": "Pots",
     "foto": "IMG_20260717_114653453.webp",
     "altre": [
       "IMG_20260717_114701199.webp"
@@ -89,8 +89,8 @@
   },
   {
     "id": "f114711232",
-    "nome": "Pot 5",
-    "categoria": "Pots",
+    "nome": "Vase 1",
+    "categoria": "Vases",
     "foto": "IMG_20260717_114711232.webp",
     "altre": [
       "IMG_20260717_114714284.webp"
@@ -141,8 +141,8 @@
   },
   {
     "id": "f114849439",
-    "nome": "Pot 6",
-    "categoria": "Pots",
+    "nome": "Pan with lid 2",
+    "categoria": "Pans",
     "foto": "IMG_20260717_114849439.webp",
     "altre": [
       "IMG_20260717_114853850.webp",
@@ -156,8 +156,8 @@
   },
   {
     "id": "f114918897",
-    "nome": "Pot 7",
-    "categoria": "Pots",
+    "nome": "Pan 3",
+    "categoria": "Pans",
     "foto": "IMG_20260717_114918897.webp",
     "altre": [
       "IMG_20260717_114922476.webp"
@@ -169,8 +169,8 @@
   },
   {
     "id": "f114938875",
-    "nome": "Pot 8",
-    "categoria": "Pots",
+    "nome": "Pan 4",
+    "categoria": "Pans",
     "foto": "IMG_20260717_114938875.webp",
     "altre": [
       "IMG_20260717_114942439.webp"
@@ -182,8 +182,8 @@
   },
   {
     "id": "f114952609",
-    "nome": "Pot 9",
-    "categoria": "Pots",
+    "nome": "Pan 5",
+    "categoria": "Pans",
     "foto": "IMG_20260717_114952609.webp",
     "altre": [
       "IMG_20260717_114954911.webp"
@@ -195,8 +195,8 @@
   },
   {
     "id": "f115005127",
-    "nome": "Pot 10",
-    "categoria": "Pots",
+    "nome": "Pan 6",
+    "categoria": "Pans",
     "foto": "IMG_20260717_115005127.webp",
     "altre": [
       "IMG_20260717_115007972.webp"
@@ -235,7 +235,7 @@
   },
   {
     "id": "f115152250",
-    "nome": "Pot 11",
+    "nome": "Pot 5",
     "categoria": "Pots",
     "foto": "IMG_20260717_115152250.webp",
     "altre": [
@@ -288,7 +288,7 @@
   },
   {
     "id": "f115444763",
-    "nome": "Pan 2",
+    "nome": "Pan 7",
     "categoria": "Pans",
     "foto": "IMG_20260717_115444763.webp",
     "altre": [
