@@ -1,14 +1,29 @@
 export const SITE = {
-  title: "The Kitchen Sale",
-  eyebrow: "Private kitchen clear-out",
+  title: "Kitchen Sale",
+
+  eyebrow: "Private second-hand sale",
+
   intro:
-    "We are Erasmus students selling kitchen items that we cannot take home. Everything is used but still in good condition unless stated otherwise.",
-  pickup: "Pickup details available from the seller",
-  contactUrl: import.meta.env.VITE_CONTACT_URL || "",
-  contactLabel: import.meta.env.VITE_CONTACT_LABEL || "Contact the seller",
-  adminPassword: import.meta.env.VITE_ADMIN_PASSWORD || "cucina2026",
+    "Quality kitchen items from Erasmus students. Everything is in good condition and ready for pickup.",
+
+  pickup: "📍 Pickup in Delft",
+
+  contactLabel: "📱 WhatsApp",
+
+  contactUrl: "https://wa.me/+393663106619",
+
+  adminPassword: "cucina2026",
+
+  info: [
+    "📍 Pickup in Delft",
+    "📱 WhatsApp",
+    "💶 Revolut",
+    "🅿️ PayPal",
+    "🏦 Bank Transfer"
+  ],
+
   imageBase:
-    "https://raw.githubusercontent.com/miscigiacomo-sketch/KITCHEN/main/photos/photos",
+    "https://raw.githubusercontent.com/miscigiacomo-sketch/KITCHEN/main/photos/photos"
 };
 
 export const CATEGORIES = [
