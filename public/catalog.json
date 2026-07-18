@@ -22,7 +22,7 @@
       "IMG_20260717_114409861.webp"
     ],
     "prezzo": "3",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "20,5 cm diameter",
     "nascosto": false
   },
@@ -256,7 +256,7 @@
       "IMG_20260717_115312223.webp"
     ],
     "prezzo": "3",
-    "stato": "Reserved",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -613,7 +613,7 @@
       "IMG_20260717_121105559.webp"
     ],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -638,7 +638,7 @@
     "foto": "IMG_20260717_121135659.webp",
     "altre": [],
     "prezzo": "3",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -713,7 +713,7 @@
     "altre": [],
     "prezzo": "2",
     "stato": "Available",
-    "note": "you can also buy only one at 1 euro",
+    "note": "you can also buy only one at 1 euro, the grey one is gone",
     "nascosto": false
   },
   {
@@ -870,7 +870,7 @@
       "IMG_20260717_122143128.webp"
     ],
     "prezzo": "2",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "one for 50 cent",
     "nascosto": false
   },
@@ -961,7 +961,7 @@
       "IMG_20260717_122428473.webp"
     ],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "one for 50 cent",
     "nascosto": false
   },
