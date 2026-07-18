@@ -33,7 +33,7 @@
     "foto": "IMG_20260717_114434616.webp",
     "altre": [],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -57,7 +57,7 @@
       "IMG_20260717_114508629.webp"
     ],
     "prezzo": "3",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -83,7 +83,7 @@
       "IMG_20260717_114701199.webp"
     ],
     "prezzo": "3",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "18,5 cm diameter",
     "nascosto": false
   },
@@ -229,7 +229,7 @@
       "IMG_20260717_115137746.webp"
     ],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -338,7 +338,7 @@
       "IMG_20260717_115800457.webp"
     ],
     "prezzo": "2",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "you can also buy one item ",
     "nascosto": false
   },
@@ -417,7 +417,7 @@
       "IMG_20260717_120318234.webp"
     ],
     "prezzo": "2",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "you can also buy one item ",
     "nascosto": false
   },
@@ -441,7 +441,7 @@
       "IMG_20260717_120449563.webp"
     ],
     "prezzo": "2",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -510,7 +510,7 @@
     "foto": "IMG_20260717_120644414.webp",
     "altre": [],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -523,7 +523,7 @@
       "IMG_20260717_120800270.webp"
     ],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "you can also buy only one per 1 euro",
     "nascosto": false
   },
@@ -586,7 +586,7 @@
     "foto": "IMG_20260717_121015872.webp",
     "altre": [],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -725,7 +725,7 @@
       "IMG_20260717_121558274.webp"
     ],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "you can also buy only one at 1 euro",
     "nascosto": false
   },
@@ -883,7 +883,7 @@
       "IMG_20260717_122157610.webp"
     ],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "one for 50 cent",
     "nascosto": false
   },
@@ -1009,7 +1009,7 @@
       "IMG_20260717_122531812.webp"
     ],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -1044,7 +1044,7 @@
     "foto": "IMG_20260717_122632791.webp",
     "altre": [],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
