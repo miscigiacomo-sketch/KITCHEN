@@ -736,7 +736,7 @@
     "foto": "IMG_20260717_121633322.webp",
     "altre": [],
     "prezzo": "1",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "you can also buy only one at 20 cent",
     "nascosto": false
   },
@@ -996,7 +996,7 @@
     "foto": "IMG_20260717_122514390.webp",
     "altre": [],
     "prezzo": "0.5",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "10 cent each one",
     "nascosto": false
   },
@@ -1033,7 +1033,7 @@
     "foto": "IMG_20260717_122616853.webp",
     "altre": [],
     "prezzo": "2",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "one for 50 cent",
     "nascosto": false
   },
@@ -1154,7 +1154,7 @@
     "foto": "IMG_20260717_123306482.webp",
     "altre": [],
     "prezzo": "0.25",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
@@ -1253,7 +1253,7 @@
     "foto": "IMG_20260717_123518366.webp",
     "altre": [],
     "prezzo": "2",
-    "stato": "Available",
+    "stato": "Reserved",
     "note": "",
     "nascosto": false
   },
