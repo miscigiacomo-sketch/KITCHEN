@@ -57,7 +57,7 @@
       "IMG_20260717_114508629.webp"
     ],
     "prezzo": "3",
-    "stato": "Reserved",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -83,7 +83,7 @@
       "IMG_20260717_114701199.webp"
     ],
     "prezzo": "3",
-    "stato": "Reserved",
+    "stato": "Sold",
     "note": "18,5 cm diameter",
     "nascosto": false
   },
@@ -229,7 +229,7 @@
       "IMG_20260717_115137746.webp"
     ],
     "prezzo": "1",
-    "stato": "Reserved",
+    "stato": "Available",
     "note": "",
     "nascosto": false
   },
@@ -269,7 +269,7 @@
       "IMG_20260717_115344391.webp"
     ],
     "prezzo": "4",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -417,8 +417,8 @@
       "IMG_20260717_120318234.webp"
     ],
     "prezzo": "2",
-    "stato": "Reserved",
-    "note": "you can also buy one item ",
+    "stato": "Available",
+    "note": "ONLY ONE REMAINING ",
     "nascosto": false
   },
   {
@@ -441,7 +441,7 @@
       "IMG_20260717_120449563.webp"
     ],
     "prezzo": "2",
-    "stato": "Reserved",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -489,7 +489,7 @@
     "altre": [],
     "prezzo": "4",
     "stato": "Available",
-    "note": "2 euros per knife ",
+    "note": "ONLY BLACK ONE REMAINING. 2 euros per knife ",
     "nascosto": false
   },
   {
@@ -510,7 +510,7 @@
     "foto": "IMG_20260717_120644414.webp",
     "altre": [],
     "prezzo": "1",
-    "stato": "Reserved",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -523,8 +523,8 @@
       "IMG_20260717_120800270.webp"
     ],
     "prezzo": "1",
-    "stato": "Reserved",
-    "note": "you can also buy only one per 1 euro",
+    "stato": "Available",
+    "note": "ONLY ONE REMAINING",
     "nascosto": false
   },
   {
@@ -586,7 +586,7 @@
     "foto": "IMG_20260717_121015872.webp",
     "altre": [],
     "prezzo": "1",
-    "stato": "Reserved",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
@@ -725,7 +725,7 @@
       "IMG_20260717_121558274.webp"
     ],
     "prezzo": "1",
-    "stato": "Reserved",
+    "stato": "Sold",
     "note": "you can also buy only one at 1 euro",
     "nascosto": false
   },
@@ -896,7 +896,7 @@
       "IMG_20260717_122215532.webp"
     ],
     "prezzo": "0.5",
-    "stato": "Available",
+    "stato": "Sold",
     "note": "",
     "nascosto": false
   },
